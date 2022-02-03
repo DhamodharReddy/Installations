@@ -11,7 +11,7 @@ git clone https://github.com/DhamodharReddy/Installations.git
 ```
 * *change the directory and give full permissions to owner and execute the script of installation of java and jenkins*
 ```
-cd realtime-project1/jenkins-installation && chmod 755 install_java8.sh && ./install_java8.sh
+cd Installations/Jenkins && chmod 755 install_java8.sh && ./install_java8.sh
 ```
 * *once jenkins is installed, launch the Jenkins UI and complete the installation*
 * *Login to Jenkins*
