@@ -7,7 +7,7 @@
 <!-- italics -->
 * *Clone the repository from gitlab*
 ```
-git clone https://gitlab.com/jopgrp1/realtime-project1.git
+git clone https://github.com/DhamodharReddy/Installations.git
 ```
 * *change the directory and give full permissions to owner and execute the script of installation of java and jenkins*
 ```
