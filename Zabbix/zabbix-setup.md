@@ -5,7 +5,7 @@
 
 ## **Install docker & git**
 ```
-git clone https://gitlab.com/jopgrp1/realtime-project1.git && cd realtime-project1/Zabbix
+git clone https://github.com/DhamodharReddy/Installations.git && cd realtime-project1/Zabbix
 
 sudo chmod 755 docker-git.sh && ./docker-git.sh
 ```
